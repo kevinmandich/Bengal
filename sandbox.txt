@@ -1,0 +1,103 @@
+BBABABBBABBAAABBBABBAABBAAAAAAABBBAAAAABABAABABB
+1000001011
+
+BBABABBBABBAAABBBABBAABB  .  AABBBAAAAABABAABABB
+1  .  1011 (11011)
+
+
+BBABABBBABBAAABBBABBAABB  .  A.BBBAAAAABABAABABB
+1  .  1.11 (1111)
+
+Yes
+
+
+
+AAAAABBBBAAAA
+1010
+
+A....BBBBAAAA
+1.10 (110)
+
+A....****AAAA
+1.*0 (11)
+
+Yes
+
+
+
+AAAAAA
+00
+
+.AAAAA
+.0 - find first A available
+
+..AAAA
+.. - find first A available
+
+Yes (***** SPECIAL *****)
+
+
+
+AAAABAAABBBBBBAAAAAAA
+01001110 
+
+....BAAABBBBBBAAAAAAA
+.1001110    search for largest consecutive number of A's which will match the number of 0's we're looking for
+
+....B...BBBBBBAAAAAAA
+.1..1110
+
+....B...BBBBBB......
+.1..111.
+
+
+Yes
+
+
+
+BBAABABBA
+1100110 
+
+if first is 1:
+	if second is 0:
+		if first is A:
+			take first A only
+		if first is B:
+			take greedy B
+	if second is 1:
+		take all B's if number of cons. B's >= number of cons. 1's
+
+BBAABABBA
+1100110 
+
+
+
+
+
+
+BAAAB
+11001
+
+BA..B
+11..1
+
+Yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

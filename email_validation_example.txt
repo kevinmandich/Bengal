@@ -1,0 +1,80 @@
+a.little.lengthy.but.fine@dept.example.com
+a"b(c)d,e:f;g<h>i[j\k]l@example.com
+very.common@example.com
+this\ still\"not\\allowed@example.com
+asterisk_domain@foo.*
+Abc.example.com
+<invalid>@foo.com
+bob123@alice123.com
+niceandsimple@example.com
+disposable.style.email.with+156@example.com
+disposable.style.email.with+symbol@example.com
+this is not true
+1@d.net
+this is"not\allowed@example.com
+b@d.net
+"very.unusual.@.unusual.com"@example.com
+hfij#kjdfvkl
+b@domain.net
+A@b@c@example.com
+just"not"right@example.com
+bob123@alice123.com
+1@d.net
+b@d.net
+b@domain.net
+disposable.style.email.with+156@example.com
+hfij#kjdfvkl
+this is"not\allowed@example.com
+very.common@example.com
+"very.unusual.@.unusual.com"@example.com
+a.little.lengthy.but.fine@dept.example.com
+Abc.example.com
+this is not true
+<invalid>@foo.com
+this\ still\"not\\allowed@example.com
+asterisk_domain@foo.*
+a"b(c)d,e:f;g<h>i[j\k]l@example.com
+just"not"right@example.com
+A@b@c@example.com
+niceandsimple@example.com
+disposable.style.email.with+symbol@example.com
+asterisk_domain@foo.*
+niceandsimple@example.com
+hfij#kjdfvkl
+bob123@alice123.com
+disposable.style.email.with+156@example.com
+a"b(c)d,e:f;g<h>i[j\k]l@example.com
+very.common@example.com
+A@b@c@example.com
+b@domain.net
+disposable.style.email.with+symbol@example.com
+a.little.lengthy.but.fine@dept.example.com
+Abc.example.com
+this is not true
+1@d.net
+b@d.net
+"very.unusual.@.unusual.com"@example.com
+this is"not\allowed@example.com
+this\ still\"not\\allowed@example.com
+just"not"right@example.com
+<invalid>@foo.com
+this\ still\"not\\allowed@example.com
+1@d.net
+a"b(c)d,e:f;g<h>i[j\k]l@example.com
+<invalid>@foo.com
+this is"not\allowed@example.com
+b@domain.net
+asterisk_domain@foo.*
+A@b@c@example.com
+disposable.style.email.with+symbol@example.com
+just"not"right@example.com
+niceandsimple@example.com
+"very.unusual.@.unusual.com"@example.com
+Abc.example.com
+a.little.lengthy.but.fine@dept.example.com
+very.common@example.com
+bob123@alice123.com
+b@d.net
+this is not true
+hfij#kjdfvkl
+disposable.style.email.with+156@example.com
