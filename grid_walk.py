@@ -1,4 +1,4 @@
-## grid_walk2.py
+## grid_walk.py
 ## Challenge #60
 
 def sum_digits(num):
