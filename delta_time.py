@@ -25,3 +25,4 @@ for test in test_cases:
         seconds = '0'+seconds
     
     print hours+':'+minutes+':'+seconds
+
